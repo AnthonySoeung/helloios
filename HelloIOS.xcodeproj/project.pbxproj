@@ -29,6 +29,11 @@
 			path = HelloIOS;
 			sourceTree = "<group>";
 		};
+		3AE78AD82F146F6C007911F0 /* screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +52,7 @@
 			children = (
 				3AE78AB12F105ADD007911F0 /* HelloIOS */,
 				3AE78AB02F105ADD007911F0 /* Products */,
+				3AE78AD82F146F6C007911F0 /* screenshots */,
 			);
 			sourceTree = "<group>";
 		};
@@ -75,6 +81,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				3AE78AB12F105ADD007911F0 /* HelloIOS */,
+				3AE78AD82F146F6C007911F0 /* screenshots */,
 			);
 			name = HelloIOS;
 			packageProductDependencies = (
